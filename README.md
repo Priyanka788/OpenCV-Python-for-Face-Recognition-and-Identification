@@ -6,7 +6,11 @@ In this we recognize &amp; detect face with OpenCV Python
 Install OpenCV for Python on your system:
 
 1.Mac:-https://www.youtube.com/watch?v=iluST-V757A&feature=youtu.be
+
+
 2.Windows:-https://www.youtube.com/watch?v=Fcc_jemaoNU&feature=youtu.be
+
+
 3.Linux with Pi Awesome:-https://www.codingforentrepreneurs.com/blog/raspberry-pi-awesome/
 
 #Secondly
